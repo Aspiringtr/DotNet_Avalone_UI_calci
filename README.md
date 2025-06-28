@@ -21,6 +21,4 @@ A simple cross-platform calculator built using **Avalonia UI** and **.NET**, des
 
 - [.NET SDK](https://dotnet.microsoft.com/download)
 - [Git](https://git-scm.com/)
-- Avalonia templates (optional but helpful):
-  ```bash
-  dotnet new install Avalonia.Templates
+
