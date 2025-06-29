@@ -6,6 +6,25 @@
                 
     <Application.Styles>
         <FluentTheme />
-
 	</Application.Styles>
+	<Application.Resources>
+		<ControlTheme x:Key="cyan" TargetType="Button">
+			<Setter Property="Background" Value="#4DC4D6"/>
+			<Style Selector="^:pointerover">
+				<Setter Property="Background" Value="#56DDF1"/>
+			</Style>
+			<Style Selector="^:Pressed">
+				<Setter Property="Background" Value="#4DC4D6"/>
+			</Style>
+		</ControlTheme>
+		<ControlTheme x:Key="Dblue" TargetType="Button">
+			<Setter Property="Background" Value="#1D222F"/>
+			<Style Selector="^:pointerover">
+				<Setter Property="Background" Value="#29324A"/>
+			</Style>
+			<Style Selector="^:Pressed">
+				<Setter Property="Background" Value="#1D222F"/>
+			</Style>
+		</ControlTheme>
+	</Application.Resources>
 </Application>

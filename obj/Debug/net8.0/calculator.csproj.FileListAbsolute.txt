@@ -66,3 +66,10 @@ E:\program\c#\calculator\calculator\obj\Debug\net8.0\calculator.pdb
 E:\program\c#\calculator\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
 E:\program\c#\calculator\calculator\obj\Debug\net8.0\ref\calculator.dll
 E:\program\c#\calculator\calculator\obj\Debug\net8.0\calculator.sourcelink.json
+E:\program\c#\calculator\calculator\bin\Debug\net8.0\Avalonia.Svg.Skia.dll
+E:\program\c#\calculator\calculator\bin\Debug\net8.0\ExCSS.dll
+E:\program\c#\calculator\calculator\bin\Debug\net8.0\ShimSkiaSharp.dll
+E:\program\c#\calculator\calculator\bin\Debug\net8.0\SkiaSharp.HarfBuzz.dll
+E:\program\c#\calculator\calculator\bin\Debug\net8.0\Svg.Custom.dll
+E:\program\c#\calculator\calculator\bin\Debug\net8.0\Svg.Model.dll
+E:\program\c#\calculator\calculator\bin\Debug\net8.0\Svg.Skia.dll
