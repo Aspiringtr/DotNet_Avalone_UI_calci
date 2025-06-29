@@ -65,3 +65,4 @@ E:\program\c#\calculator\calculator\obj\Debug\net8.0\refint\calculator.dll
 E:\program\c#\calculator\calculator\obj\Debug\net8.0\calculator.pdb
 E:\program\c#\calculator\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
 E:\program\c#\calculator\calculator\obj\Debug\net8.0\ref\calculator.dll
+E:\program\c#\calculator\calculator\obj\Debug\net8.0\calculator.sourcelink.json
