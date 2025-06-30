@@ -9,5 +9,10 @@ namespace calculator
         {
             InitializeComponent();
         }
+
+        void updatecalci()
+        {
+        }
+
     }
 }
