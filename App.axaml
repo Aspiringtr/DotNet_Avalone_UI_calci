@@ -10,19 +10,21 @@
 	<Application.Resources>
 		<ControlTheme x:Key="cyan" TargetType="Button">
 			<Setter Property="Background" Value="#4DC4D6"/>
+			<Setter Property="CornerRadius" Value="5" />
 			<Style Selector="^:pointerover">
-				<Setter Property="Background" Value="#56DDF1"/>
+				<Setter Property="Background" Value="#77DDED"/>
 			</Style>
-			<Style Selector="^:Pressed">
+			<Style Selector="^:pressed">
 				<Setter Property="Background" Value="#4DC4D6"/>
 			</Style>
 		</ControlTheme>
 		<ControlTheme x:Key="Dblue" TargetType="Button">
 			<Setter Property="Background" Value="#1D222F"/>
+			<Setter Property="CornerRadius" Value="5" />
 			<Style Selector="^:pointerover">
 				<Setter Property="Background" Value="#29324A"/>
 			</Style>
-			<Style Selector="^:Pressed">
+			<Style Selector="^:pressed">
 				<Setter Property="Background" Value="#1D222F"/>
 			</Style>
 		</ControlTheme>
