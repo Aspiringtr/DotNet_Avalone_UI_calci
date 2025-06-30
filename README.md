@@ -15,9 +15,9 @@ A simple cross-platform calculator built using **Avalonia UI** and **.NET**, des
 - [.NET 7/8](https://dotnet.microsoft.com/) — Modern, fast, and open-source development platform
 - C# — Primary programming language
 
-### Getting Started
+# Getting Started
 ## Linux
-# Using dotnet frame work 
+### Using dotnet frame work 
 run the following command to install the dotnet frame work to construct the built and run it
 ```
 wget https://packages.microsoft.com/config/ubuntu/22.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
