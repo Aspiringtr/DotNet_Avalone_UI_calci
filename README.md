@@ -29,7 +29,7 @@ once installed go to the file directory and run the following command
 ```
 dotnet run
 ```
-# Using Wine
+### Using Wine
 while using wine you just have to run the exe file inside the bin file **calculator.exe**
 ```
 sudo apt install wine
