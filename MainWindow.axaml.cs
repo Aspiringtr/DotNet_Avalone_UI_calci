@@ -9,9 +9,9 @@ namespace calculator
         {
             InitializeComponent();
         }
-
         void updatecalci()
         {
+            Calci.Text = "hi";
         }
 
     }

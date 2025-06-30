@@ -46,13 +46,13 @@
 				</Style>
 			</Grid.Styles>
 			<Label Grid.Column="0" Padding="10 0 0 0" HorizontalAlignment="Left" Foreground="#4DC4D6" >=</Label>
-			<Label Grid.Column="1" HorizontalAlignment="Right" x:Name="Result"></Label>
+			<Label Grid.Column="1" HorizontalAlignment="Right" x:Name="Result">1200</Label>
 		</Grid>
 		<!-- line -->
 		<Label Margin="0 0 0 0" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="4" BorderBrush="#20202e" BorderThickness="0 1 0 0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Label>
 		<!-- Claci -->
 		<Grid Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="4" HorizontalAlignment="Right" Height="40" Margin="0 5 0 0">	
-			<TextBlock x:Name="Calci" Text=""></TextBlock>
+			<TextBlock x:Name="Calci" Text="">75 x 4 x 4</TextBlock>
 		</Grid>
 		<!-- Buttons -->
 		<Grid Grid.Row="2" Margin="5" ColumnSpacing="10" Grid.ColumnSpan="4" ColumnDefinitions="*,*,*,*">
