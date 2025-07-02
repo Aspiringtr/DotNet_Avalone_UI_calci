@@ -46,69 +46,69 @@
 				</Style>
 			</Grid.Styles>
 			<Label Grid.Column="0" Padding="10 0 0 0" HorizontalAlignment="Left" Foreground="#4DC4D6" >=</Label>
-			<Label Grid.Column="1" HorizontalAlignment="Right" x:Name="Result">1200</Label>
+			<Label Grid.Column="1" HorizontalAlignment="Right" x:Name="Result"></Label>
 		</Grid>
 		<!-- line -->
 		<Label Margin="0 0 0 0" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="4" BorderBrush="#20202e" BorderThickness="0 1 0 0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Label>
 		<!-- Claci -->
 		<Grid Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="4" HorizontalAlignment="Right" Height="40" Margin="0 5 0 0">	
-			<TextBlock x:Name="Calci" Text="">75 x 4 x 4</TextBlock>
+			<TextBlock x:Name="Calci" Padding="5 0"></TextBlock>
 		</Grid>
 		<!-- Buttons -->
 		<Grid Grid.Row="2" Margin="5" ColumnSpacing="10" Grid.ColumnSpan="4" ColumnDefinitions="*,*,*,*">
-			<Button Classes="B" Grid.Column="0" x:Name="CE">
+			<Button Click="CE" Classes="B" Grid.Column="0">
 				<Label>CE</Label>
 			</Button>
-			<Button Classes="B" Grid.Column="1" x:Name="Divide">
+			<Button Click="Divide" Classes="B" Grid.Column="1">
 				<Label>/</Label>
 			</Button>
-			<Button Classes="B" Grid.Column="2" x:Name="Multiply">
+			<Button Click="Multiply" Classes="B" Grid.Column="2">
 				<Label>x</Label>
 			</Button>
-			<Button Classes="B" Grid.Column="3" x:Name="Subtract">
+			<Button Click="Subtract" Classes="B" Grid.Column="3">
 				<Label>-</Label>
 			</Button>
 		</Grid>
 		<Grid Grid.Row="3" Margin="5" ColumnSpacing="10" RowSpacing="10" Grid.ColumnSpan="4" ColumnDefinitions="*,*,*,*" RowDefinitions="*,*">
-			<Button Classes="D" Grid.Column="0" Grid.Row="0" x:Name="seven">
+			<Button Click="Seven" Classes="D" Grid.Column="0" Grid.Row="0">
 				<Label>7</Label>
 			</Button>
-			<Button Classes="D" Grid.Column="1" Grid.Row="0" x:Name="eight">
+			<Button Click="Eight" Classes="D" Grid.Column="1" Grid.Row="0">
 				<Label>8</Label>
 			</Button>
-			<Button Classes="D" Grid.Column="2" Grid.Row="0" x:Name="nine">
+			<Button Click="Nine" Classes="D" Grid.Column="2" Grid.Row="0">
 				<Label>9</Label>
 			</Button>
-			<Button Classes="B" Grid.Column="3" Grid.Row="0" Grid.RowSpan="2" x:Name="Addition">
+			<Button Click="Addition" Classes="B" Grid.Column="3" Grid.Row="0" Grid.RowSpan="2">
 				<Label>+</Label>
 			</Button>
-			<Button Classes="D" Grid.Column="0" Grid.Row="1" x:Name="four">
+			<Button Classes="D" Grid.Column="0" Grid.Row="1">
 				<Label>4</Label>
 			</Button>
-			<Button Classes="D" Grid.Column="1" Grid.Row="1" x:Name="five">
+			<Button Classes="D" Grid.Column="1" Grid.Row="1">
 				<Label>5</Label>
 			</Button>
-			<Button Classes="D" Grid.Column="2" Grid.Row="1" x:Name="sixe">
+			<Button Classes="D" Grid.Column="2" Grid.Row="1">
 				<Label>6</Label>
 			</Button>
 		</Grid>
 		<Grid Grid.Row="4" Margin="5" ColumnSpacing="10" RowSpacing="10" Grid.ColumnSpan="4" ColumnDefinitions="*,*,*,*" RowDefinitions="*,*">
-			<Button Classes="D" Grid.Column="0" Grid.Row="0" x:Name="one">
+			<Button Classes="D" Grid.Column="0" Grid.Row="0">
 				<Label>1</Label>
 			</Button>
-			<Button Classes="D" Grid.Column="1" Grid.Row="0" x:Name="two">
+			<Button Classes="D" Grid.Column="1" Grid.Row="0">
 				<Label>2</Label>
 			</Button>
-			<Button Classes="D" Grid.Column="2" Grid.Row="0" x:Name="three">
+			<Button Classes="D" Grid.Column="2" Grid.Row="0">
 				<Label>3</Label>
 			</Button>
-			<Button Classes="B" Grid.Column="3" Grid.Row="0" Grid.RowSpan="2" x:Name="Enter">
+			<Button Click="Enter" Classes="B" Grid.Column="3" Grid.Row="0" Grid.RowSpan="2">
 				<Label>EN</Label>
 			</Button>
-			<Button Classes="B" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="zero">
+			<Button Classes="B" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2">
 				<Label>0</Label>
 			</Button>
-			<Button Classes="D" Grid.Column="2" Grid.Row="1" x:Name="dot">
+			<Button Classes="D" Grid.Column="2" Grid.Row="1">
 				<Label>.</Label>
 			</Button>
 		</Grid>
