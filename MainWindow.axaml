@@ -82,33 +82,33 @@
 			<Button Click="Addition" Classes="B" Grid.Column="3" Grid.Row="0" Grid.RowSpan="2">
 				<Label>+</Label>
 			</Button>
-			<Button Classes="D" Grid.Column="0" Grid.Row="1">
+			<Button Click="Four" Classes="D" Grid.Column="0" Grid.Row="1">
 				<Label>4</Label>
 			</Button>
-			<Button Classes="D" Grid.Column="1" Grid.Row="1">
+			<Button Click="Five" Classes="D" Grid.Column="1" Grid.Row="1">
 				<Label>5</Label>
 			</Button>
-			<Button Classes="D" Grid.Column="2" Grid.Row="1">
+			<Button Click="Six" Classes="D" Grid.Column="2" Grid.Row="1">
 				<Label>6</Label>
 			</Button>
 		</Grid>
 		<Grid Grid.Row="4" Margin="5" ColumnSpacing="10" RowSpacing="10" Grid.ColumnSpan="4" ColumnDefinitions="*,*,*,*" RowDefinitions="*,*">
-			<Button Classes="D" Grid.Column="0" Grid.Row="0">
+			<Button Click="One" Classes="D" Grid.Column="0" Grid.Row="0">
 				<Label>1</Label>
 			</Button>
-			<Button Classes="D" Grid.Column="1" Grid.Row="0">
+			<Button Click="Two" Classes="D" Grid.Column="1" Grid.Row="0">
 				<Label>2</Label>
 			</Button>
-			<Button Classes="D" Grid.Column="2" Grid.Row="0">
+			<Button Click="Three" Classes="D" Grid.Column="2" Grid.Row="0">
 				<Label>3</Label>
 			</Button>
 			<Button Click="Enter" Classes="B" Grid.Column="3" Grid.Row="0" Grid.RowSpan="2">
 				<Label>EN</Label>
 			</Button>
-			<Button Classes="B" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2">
+			<Button Click="Zero" Classes="B" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2">
 				<Label>0</Label>
 			</Button>
-			<Button Classes="D" Grid.Column="2" Grid.Row="1">
+			<Button Click="Dot" Classes="D" Grid.Column="2" Grid.Row="1">
 				<Label>.</Label>
 			</Button>
 		</Grid>

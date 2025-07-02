@@ -47,6 +47,46 @@ namespace calculator
             calci += "9";
             updatecalci();
         }
+        private void Four(object sender, RoutedEventArgs e)
+        {
+            calci += "4";
+            updatecalci();
+        }
+        private void Five(object sender, RoutedEventArgs e)
+        {
+            calci += "5";
+            updatecalci();
+        }
+        private void Six(object sender, RoutedEventArgs e)
+        {
+            calci += "6";
+            updatecalci();
+        }
+        private void One(object sender, RoutedEventArgs e)
+        {
+            calci += "1";
+            updatecalci();
+        }
+        private void Two(object sender, RoutedEventArgs e)
+        {
+            calci += "2";
+            updatecalci();
+        }
+        private void Three(object sender, RoutedEventArgs e)
+        {
+            calci += "3";
+            updatecalci();
+        }
+        private void Zero(object sender, RoutedEventArgs e)
+        {
+            calci += "0";
+            updatecalci();
+        }
+        private void Dot(object sender, RoutedEventArgs e)
+        {
+            calci += ".";
+            updatecalci();
+        }
         private void Enter(object sender, RoutedEventArgs e)
         {
             ///fuction to calc and update it to Result
@@ -61,6 +101,7 @@ namespace calculator
         {
             Calci.Text = calci;
         }
+
         public string calci = "";
     }
 }
