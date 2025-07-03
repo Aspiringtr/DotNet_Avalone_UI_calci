@@ -6,14 +6,16 @@
     <BuiltInComInteropSupport>true</BuiltInComInteropSupport>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
+	 <ApplicationIcon>Asserts\images\ICON.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <None Remove="Asserts\images\close.svg" />
+    <None Remove="Asserts\images\ICON.ico" />
   </ItemGroup>
   <ItemGroup>
     <AvaloniaResource Include="Asserts\images\close.svg" />
+    <AvaloniaResource Include="Asserts\images\ICON.ico" />
   </ItemGroup>
-
   <ItemGroup>
     <PackageReference Include="Avalonia" Version="11.3.0" />
     <PackageReference Include="Avalonia.Desktop" Version="11.3.0" />

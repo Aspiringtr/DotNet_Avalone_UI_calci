@@ -12,7 +12,9 @@
 		ExtendClientAreaChromeHints="NoChrome"
 		ExtendClientAreaToDecorationsHint="True"
 		MinWidth="250"
-		MinHeight="400">
+		MinHeight="400"
+		Icon="/Asserts/images/ICON.ico"
+		>
 	<Window.Styles>
 		<Style Selector="Button">
 			<Setter Property="VerticalAlignment" Value="Stretch"/>
