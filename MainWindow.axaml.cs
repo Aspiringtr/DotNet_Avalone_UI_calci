@@ -2,6 +2,8 @@ using System;
 using Avalonia.Controls;
 using Avalonia.Interactivity;
 using Avalonia.Media;
+using System.Data;
+using static SkiaSharp.HarfBuzz.SKShaper;
 
 namespace calculator
 {
@@ -10,7 +12,6 @@ namespace calculator
         public MainWindow()
         {
             InitializeComponent();
-            updatecalci();
         }
         private void Divide(object sender, RoutedEventArgs e)
         {
@@ -89,8 +90,15 @@ namespace calculator
         }
         private void Enter(object sender, RoutedEventArgs e)
         {
-            ///fuction to calc and update it to Result
-            updatecalci();
+            try
+            {
+                var result = new DataTable().Compute(calci.Replace("X", "*"), "");
+                Result.Content = result;
+            }
+            catch
+            {
+                Result.Content = "Error";
+            }
         }
         private void CE (object sender, RoutedEventArgs e)
         {

@@ -10,7 +10,9 @@
 		Background="#1A1A28"
 		Padding="5"
 		ExtendClientAreaChromeHints="NoChrome"
-		ExtendClientAreaToDecorationsHint="True">
+		ExtendClientAreaToDecorationsHint="True"
+		MinWidth="250"
+		MinHeight="400">
 	<Window.Styles>
 		<Style Selector="Button">
 			<Setter Property="VerticalAlignment" Value="Stretch"/>
