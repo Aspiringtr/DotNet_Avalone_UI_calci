@@ -1,0 +1,4 @@
+E:\bin\calculator.pdb
+E:\bin\libHarfBuzzSharp.so
+E:\bin\libSkiaSharp.so
+E:\bin\calculator

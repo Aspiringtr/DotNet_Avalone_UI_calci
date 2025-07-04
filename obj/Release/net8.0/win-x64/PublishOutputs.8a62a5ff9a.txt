@@ -1,0 +1,5 @@
+E:\program\c#\calculator\calculator\bin\Release\net8.0\win-x64\publish\calculator.pdb
+E:\program\c#\calculator\calculator\bin\Release\net8.0\win-x64\publish\av_libglesv2.dll
+E:\program\c#\calculator\calculator\bin\Release\net8.0\win-x64\publish\libHarfBuzzSharp.dll
+E:\program\c#\calculator\calculator\bin\Release\net8.0\win-x64\publish\libSkiaSharp.dll
+E:\program\c#\calculator\calculator\bin\Release\net8.0\win-x64\publish\calculator.exe

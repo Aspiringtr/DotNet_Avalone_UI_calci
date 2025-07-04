@@ -1,0 +1,5 @@
+E:\program\c#\calculator\calculator\bin\Release\net8.0\osx-arm64\publish\calculator.pdb
+E:\program\c#\calculator\calculator\bin\Release\net8.0\osx-arm64\publish\libAvaloniaNative.dylib
+E:\program\c#\calculator\calculator\bin\Release\net8.0\osx-arm64\publish\libHarfBuzzSharp.dylib
+E:\program\c#\calculator\calculator\bin\Release\net8.0\osx-arm64\publish\libSkiaSharp.dylib
+E:\program\c#\calculator\calculator\bin\Release\net8.0\osx-arm64\publish\calculator
