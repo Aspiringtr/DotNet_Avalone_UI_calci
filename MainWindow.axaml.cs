@@ -4,6 +4,8 @@ using Avalonia.Interactivity;
 using Avalonia.Media;
 using System.Data;
 using static SkiaSharp.HarfBuzz.SKShaper;
+using Avalonia;
+using Avalonia.Input;
 
 namespace calculator
 {

@@ -13,8 +13,7 @@
 		ExtendClientAreaToDecorationsHint="True"
 		MinWidth="250"
 		MinHeight="400"
-		Icon="/Asserts/images/ICON.ico"
-		>
+		Icon="/Asserts/images/ICON.ico">
 	<Window.Styles>
 		<Style Selector="Button">
 			<Setter Property="VerticalAlignment" Value="Stretch"/>
@@ -53,7 +52,7 @@
 			<Label Grid.Column="1" HorizontalAlignment="Right" x:Name="Result"></Label>
 		</Grid>
 		<!-- line -->
-		<Label Margin="0 0 0 0" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="4" BorderBrush="#20202e" BorderThickness="0 1 0 0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Label>
+		<Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="4" BorderBrush="#20202e" BorderThickness="0 1 0 0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Label>
 		<!-- Claci -->
 		<Grid Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="4" HorizontalAlignment="Right" Height="40" Margin="0 5 0 0">	
 			<TextBlock x:Name="Calci" Padding="5 0"></TextBlock>
