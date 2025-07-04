@@ -6,11 +6,7 @@
     <BuiltInComInteropSupport>true</BuiltInComInteropSupport>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
-	<ApplicationIcon>Asserts\images\ICON.ico</ApplicationIcon>
-	<PublishSingleFile>true</PublishSingleFile>
-	<SelfContained>true</SelfContained>
-	<UseAppHost>true</UseAppHost>
-	<RuntimeIdentifiers>win-x64;linux-x64;osx-x64;osx-arm64</RuntimeIdentifiers> 
+	<ApplicationIcon>Asserts\images\ICON.ico</ApplicationIcon> 
   </PropertyGroup>
   <ItemGroup>
     <None Remove="Asserts\images\close.svg" />

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4HgLg/6hsEg=",
+  "dgSpecHash": "uaLWpLKDxt4=",
   "success": true,
   "projectFilePath": "E:\\program\\c#\\calculator\\calculator\\calculator.csproj",
   "expectedPackageFiles": [
@@ -24,7 +24,6 @@
     "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\harfbuzzsharp.nativeassets.webassembly\\7.3.0.3\\harfbuzzsharp.nativeassets.webassembly.7.3.0.3.nupkg.sha512",
     "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\8.3.0.1\\harfbuzzsharp.nativeassets.win32.8.3.0.1.nupkg.sha512",
     "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512",
-    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.14\\microsoft.net.illink.tasks.8.0.14.nupkg.sha512",
     "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\shimskiasharp\\3.0.2\\shimskiasharp.3.0.2.nupkg.sha512",
     "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\skiasharp\\3.116.1\\skiasharp.3.116.1.nupkg.sha512",
     "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\skiasharp.harfbuzz\\3.116.1\\skiasharp.harfbuzz.3.116.1.nupkg.sha512",
@@ -36,19 +35,7 @@
     "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\svg.model\\3.0.2\\svg.model.3.0.2.nupkg.sha512",
     "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\svg.skia\\3.0.2\\svg.skia.3.0.2.nupkg.sha512",
     "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
-    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\tmds.dbus.protocol\\0.21.2\\tmds.dbus.protocol.0.21.2.nupkg.sha512",
-    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-arm64\\8.0.14\\microsoft.aspnetcore.app.runtime.osx-arm64.8.0.14.nupkg.sha512",
-    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\microsoft.netcore.app.host.osx-arm64\\8.0.14\\microsoft.netcore.app.host.osx-arm64.8.0.14.nupkg.sha512",
-    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.14\\microsoft.netcore.app.runtime.linux-x64.8.0.14.nupkg.sha512",
-    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-arm64\\8.0.14\\microsoft.netcore.app.runtime.osx-arm64.8.0.14.nupkg.sha512",
-    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\8.0.14\\microsoft.netcore.app.host.osx-x64.8.0.14.nupkg.sha512",
-    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.14\\microsoft.netcore.app.host.linux-x64.8.0.14.nupkg.sha512",
-    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.14\\microsoft.aspnetcore.app.runtime.win-x64.8.0.14.nupkg.sha512",
-    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\8.0.14\\microsoft.netcore.app.runtime.osx-x64.8.0.14.nupkg.sha512",
-    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.14\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.14.nupkg.sha512",
-    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.14\\microsoft.netcore.app.runtime.win-x64.8.0.14.nupkg.sha512",
-    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\8.0.14\\microsoft.aspnetcore.app.runtime.osx-x64.8.0.14.nupkg.sha512",
-    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.14\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.14.nupkg.sha512"
+    "C:\\Users\\Chithambaranathan V\\.nuget\\packages\\tmds.dbus.protocol\\0.21.2\\tmds.dbus.protocol.0.21.2.nupkg.sha512"
   ],
   "logs": []
 }
