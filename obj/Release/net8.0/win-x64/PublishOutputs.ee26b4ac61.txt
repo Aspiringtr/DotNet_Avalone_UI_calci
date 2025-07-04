@@ -1,5 +1,0 @@
-E:\bin\calculator.pdb
-E:\bin\av_libglesv2.dll
-E:\bin\libHarfBuzzSharp.dll
-E:\bin\libSkiaSharp.dll
-E:\bin\calculator.exe

@@ -1,2 +1,0 @@
-E:\program\c#\calculator\calculator\bin\Release\net8.0\linux-x64\publish\calculator.pdb
-E:\program\c#\calculator\calculator\bin\Release\net8.0\linux-x64\publish\calculator
