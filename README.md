@@ -9,13 +9,15 @@ A simple cross-platform calculator built using **Avalonia UI** and **.NET**, des
 - Cross-platform support (Windows, Linux, macOS)
 - Clean MVVM-friendly structure (optional for future expansion)
 
+## Sample 
+![sample](https://github.com/Aspiringtr/DotNet_Avalone_UI_calci/blob/master/Asserts/images/sample.png)
 ## 🛠️ Built With
 
 - [Avalonia UI](https://avaloniaui.net/) — Cross-platform .NET UI framework
 - [.NET 7/8](https://dotnet.microsoft.com/) — Modern, fast, and open-source development platform
 - C# — Primary programming language
 
-# Getting Started
+# Installation
 ## Linux
 ### Using dotnet frame work 
 run the following command to install the dotnet frame work to construct the built and run it
@@ -35,3 +37,9 @@ while using wine you just have to run the exe file inside the bin file **calcula
 sudo apt install wine
 wine yourapp.exe
 ```
+## Windows
+### Using dotnet frame work 
+Download the visual studio code extension and use the Avalonia UI frame work 
+[Link](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaVS)
+### Direct execution 
+Navigate to bin -> Debug -> net8.0 and run the **Calculator.exe** to run the application on windows
