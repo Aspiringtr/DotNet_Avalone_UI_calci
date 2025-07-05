@@ -2,7 +2,6 @@
 
 A sleek, cross-platform calculator built using **Avalonia UI** and **.NET**, designed as a learning project to explore desktop application development with a modern, platform-agnostic UI framework.
 
----
 
 ## 🚀 Features
 
@@ -11,13 +10,10 @@ A sleek, cross-platform calculator built using **Avalonia UI** and **.NET**, des
 - 💻 Works on Windows, Linux, and macOS  
 - 🧠 Clean architecture, MVVM-ready (expandable for future features)
 
----
 
 ## 📸 Preview
 
 ![sample](https://github.com/Aspiringtr/DotNet_Avalone_UI_calci/blob/master/Asserts/images/sample.png)
-
----
 
 ## 🛠️ Built With
 
@@ -25,7 +21,6 @@ A sleek, cross-platform calculator built using **Avalonia UI** and **.NET**, des
 - [.NET 7/8](https://dotnet.microsoft.com/) - Fast and open-source developer platform  
 - **C#** - The primary language powering the app
 
----
 
 ## ⚙️ Installation & Usage
 
@@ -51,7 +46,6 @@ A sleek, cross-platform calculator built using **Avalonia UI** and **.NET**, des
 2. Run the executable (located in bin/Debug/net8.0/):
    ```bash
    wine Calculator.exe
----
 
 ### 🪟 Windows
 
